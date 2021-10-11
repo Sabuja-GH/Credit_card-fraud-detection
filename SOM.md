@@ -9,3 +9,4 @@ After we find BMU for a node, we update the weights of the node and also the wei
 
 The above is continued orv many times.Initilally the radius for each BMUs will  be high. But over iterations the radius will be reduced . to update the weights of nodes in the best possible way.
 
+![43_blog_image_5 (1)](https://user-images.githubusercontent.com/85345738/136848487-100b5dc3-dc09-48c2-9206-8ae3ca13aae5.png)
