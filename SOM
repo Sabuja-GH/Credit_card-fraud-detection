@@ -9,7 +9,6 @@ After we find BMU for a node, we update the weights of the node and also the wei
 
 The above is continued orv many times.Initilally the radius for each BMUs will  be high. But over iterations the radius will be reduced . to update the weights of nodes in the best possible way.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.superdatascience.com%2Fblogs%2Fthe-ultimate-guide-to-self-organizing-maps-soms&psig=AOvVaw2yzcn9Bj0rf4iH5PscyzmI&ust=1634068191511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDz9MOQw_MCFQAAAAAdAAAAABAO
-
+![alt text](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/43_blog_image_5.png)
 
 
